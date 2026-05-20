@@ -1,0 +1,6 @@
+{
+  "name": "Trade Compounding Journal",
+  "description": "An Android local-first trade compounding and journaling app that tracks individual trades and compounding gains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
